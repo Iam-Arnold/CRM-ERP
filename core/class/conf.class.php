@@ -1148,4 +1148,3 @@ class Conf extends stdClass
 		return 0;
 	}
 }
-//added
